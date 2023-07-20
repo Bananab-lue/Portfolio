@@ -10,27 +10,27 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![first](https://github.com/Bananab-lue/Portfolio/assets/139791048/cdad9a45-4a08-4029-b930-4b939ac9b200)
+![first](https://github.com/Bananab-lue/Portfolio/assets/139791048/96c14a41-b768-4cea-83cc-259a64afdb61)
 
 Experiencia:
 
-![Experience](https://github.com/Bananab-lue/Portfolio/assets/139791048/29aac5ca-abe7-4c2a-b5c3-7a8a5f8607ea)
+![Experience](https://github.com/Bananab-lue/Portfolio/assets/139791048/c6671a8d-659b-48c7-bf1a-b8918be8d2ca)
 
 Proyetos:
 
-![Projects](https://github.com/Bananab-lue/Portfolio/assets/139791048/ee92ed37-0d32-4399-b8bd-8f297e510137)
+![Projects](https://github.com/Bananab-lue/Portfolio/assets/139791048/8049ad8a-7288-46ac-a5c0-1c01a0c3c2d3)
 
 Sobre mi:
 
-![About me](https://github.com/Bananab-lue/Portfolio/assets/139791048/1345e6f1-9cc6-4fe6-844f-aa9f6907e4d8)
+![About me](https://github.com/Bananab-lue/Portfolio/assets/139791048/6112acfc-9e56-4b9d-90c3-8da6f09d1547)
 
 Testimonios:
 
-![Testimonials](https://github.com/Bananab-lue/Portfolio/assets/139791048/7164d1c8-e7dc-43dd-851b-999661908976)
+![Testimonials](https://github.com/Bananab-lue/Portfolio/assets/139791048/eba14dcd-1dfc-447f-b6c2-4206ac61f51d)
 
 Contacto:
 
-![Contact me](https://github.com/Bananab-lue/Portfolio/assets/139791048/e1c2054c-a471-44d4-a2af-36a7a1b73dc0)
+![Contact me](https://github.com/Bananab-lue/Portfolio/assets/139791048/e673ff9c-23e7-4505-b80a-a644ac3a384a)
 
 ## Tecnologías
 
