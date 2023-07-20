@@ -6,27 +6,33 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-### Capturas de pantalla:
+###Puedes visitar la 💻 página web en **https://anacarport2023.netlify.app/**
 
-Primera parte de la página web:
+### 💻 Capturas de pantalla:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+💁🏻‍♀️ Primera parte de la página web:
 
-Experiencia:
+![first](https://github.com/Bananab-lue/Portfolio/assets/139791048/55f8fda1-7f9a-44d6-8f87-c11fe080ff39)
 
-![Experiencia](imagenes/screenshot2.png)
+💼 Experiencia:
 
-Proyectos:
+![Experience](https://github.com/Bananab-lue/Portfolio/assets/139791048/551fcac6-ee99-406a-851e-8155a1aab087)
 
-![Proyectos](imagenes/screenshot3.png)
+🗂 Proyectos:
 
-Testimonios:
+![Projects](https://github.com/Bananab-lue/Portfolio/assets/139791048/b5a93020-f26b-4320-8da3-59bdcc537f80)
 
-![Testimonios](imagenes/screenshot4.png)
+💙 Sobre mí:
 
-Contacto:
+![About me](https://github.com/Bananab-lue/Portfolio/assets/139791048/279d54dd-5b2c-48e4-a49c-481bc8f8861c)
 
-![Contacto](imagenes/screenshot5.png)
+👥 Testimonios:
+
+![Testimonials](https://github.com/Bananab-lue/Portfolio/assets/139791048/b7d510ef-b7c9-46b9-817b-9a5c88e3d419)
+
+✉️ Contacto:
+
+![Contact me](https://github.com/Bananab-lue/Portfolio/assets/139791048/ff585d37-98dd-4592-baf5-a80f08babb0c)
 
 ## Tecnologías
 
@@ -41,7 +47,7 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 ## Español
 
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+El texto de la página web está escrito en inglés, sin embargo, las clases y atributos personalizados se encuentran en español. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
 
 
