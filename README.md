@@ -10,27 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![first](https://github.com/Bananab-lue/Portfolio/assets/139791048/96c14a41-b768-4cea-83cc-259a64afdb61)
+![Primera parte de la página web](imagenes/screenshot1.png)
 
 Experiencia:
 
-![Experience](https://github.com/Bananab-lue/Portfolio/assets/139791048/c6671a8d-659b-48c7-bf1a-b8918be8d2ca)
+![Experiencia](imagenes/screenshot2.png)
 
-Proyetos:
+Proyectos:
 
-![Projects](https://github.com/Bananab-lue/Portfolio/assets/139791048/8049ad8a-7288-46ac-a5c0-1c01a0c3c2d3)
-
-Sobre mi:
-
-![About me](https://github.com/Bananab-lue/Portfolio/assets/139791048/6112acfc-9e56-4b9d-90c3-8da6f09d1547)
+![Proyectos](imagenes/screenshot3.png)
 
 Testimonios:
 
-![Testimonials](https://github.com/Bananab-lue/Portfolio/assets/139791048/eba14dcd-1dfc-447f-b6c2-4206ac61f51d)
+![Testimonios](imagenes/screenshot4.png)
 
 Contacto:
 
-![Contact me](https://github.com/Bananab-lue/Portfolio/assets/139791048/e673ff9c-23e7-4505-b80a-a644ac3a384a)
+![Contacto](imagenes/screenshot5.png)
 
 ## Tecnologías
 
@@ -43,6 +39,10 @@ Esta página web fue creada con:
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
-## Inglés
+## Español
 
-El texto de la página web está escrito inglés, sin embargo,  clases y atributos personalizados se encuentran en español. Las clases relacionadas con Bootstrap se incluyeron en inglés
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+
+
+
